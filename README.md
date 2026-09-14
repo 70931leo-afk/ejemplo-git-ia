@@ -4,3 +4,5 @@
     3, Crear una RAMA para agregar nueva funcionalidad
     4, Realiza un commit
     6, Actualiza el repositorio github (push)
+    7. Ejecuta el proyecto con python main.py
+    
