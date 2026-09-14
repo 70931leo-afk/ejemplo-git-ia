@@ -6,4 +6,5 @@
     6. Actualiza el repositorio github (push)
     7. Ejecuta el proyecto con python main.py
     8. Probar el sistema
+    9. Uso del gitgraph
     
